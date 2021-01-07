@@ -17,9 +17,3 @@
   Element-ui :
   Axios :
   
-效果演示：
-  前端：
-    登录：
-      1、login：
-      
-  后端：
